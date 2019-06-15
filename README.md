@@ -18,13 +18,14 @@
 </div>
 
 
-### 1.3 Visualization 
+### 1.3 Visualization Preview
 ```
-1. Population _age structure
-2. Population _ median age
+1. Population _age structure 
 
 ```
 
-
+<div>
+<img width="598" alt="github1" src="https://user-images.githubusercontent.com/48209176/59555164-463c0000-8fe9-11e9-979f-0075c953d676.PNG">
+</div>
 
 
