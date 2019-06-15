@@ -16,18 +16,14 @@
 <div>
  <img width="662" alt="github1" src="https://user-images.githubusercontent.com/48209176/59555119-c31aaa00-8fe8-11e9-9fa2-609eed92aa56.PNG">
 </div>
-```
--visualization of crawled data from indexmundi.com
--use seaborn, matplotlib for visualization 
-```
-### 1.2 Types of Data
+
+
+### 1.3 Visualization 
 ```
 1. Population _age structure
 2. Population _ median age
 
 ```
-### 1.3 Pandas Dataframe of 
-#### Median_age.csv 
 
 
 
