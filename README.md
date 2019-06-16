@@ -20,8 +20,8 @@
 
 ### 1.3 Visualization Preview
 ```
-1. Population _age structure 
-
+1. Population _age structure (using world map)
+2. GDP composition (using pie chart) 
 ```
 
 <div>
